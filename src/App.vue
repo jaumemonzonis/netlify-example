@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+     <img src="./assets/entrada.jpg">
+      <img src="./assets/captura.png">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
